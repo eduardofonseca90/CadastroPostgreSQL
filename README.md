@@ -1,4 +1,4 @@
-#🗂️ Sistema de Cadastro em Java com PostgreSQL
+# 🗂️ Sistema de Cadastro em Java com PostgreSQL
 
 Este projeto foi desenvolvido com o objetivo de praticar a integração entre Java e PostgreSQL utilizando JDBC (Java Database Connectivity).
 
