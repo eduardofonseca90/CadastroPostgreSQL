@@ -6,15 +6,15 @@ Este projeto foi desenvolvido com o objetivo de praticar a integração entre Ja
 
 O sistema realiza operações básicas de CRUD em uma tabela tab_cadastro:
 
-Incluir: adiciona um novo registro no banco de dados
+**Incluir**: adiciona um novo registro no banco de dados
 
-Alterar: atualiza os dados de um cadastro existente
+**Alterar**: atualiza os dados de um cadastro existente
 
-Excluir: remove um registro pelo ID
+**Excluir**: remove um registro pelo ID
 
-Listar: exibe todos os cadastros
+**Listar**: exibe todos os cadastros
 
-Buscar: encontra um cadastro específico pelo ID
+**Buscar**: encontra um cadastro específico pelo ID
 
 ## 🧩 Estrutura do Projeto
 
@@ -28,13 +28,13 @@ SistemaCadastro.java → Classe principal que executa o sistema e demonstra o us
 
 ### ⚙️ Tecnologias Utilizadas
 
-Java 17
+- Java 17
 
-PostgreSQL
+- PostgreSQL
 
-JDBC
+- JDBC
 
-IDE: DBeaver / IntelliJ
+- IDE: DBeaver / IntelliJ
 
 ### 📦 Como Executar
 
