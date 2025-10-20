@@ -42,11 +42,11 @@ Crie o banco de dados rocket_db no PostgreSQL
 
 Execute o script SQL:
 
-CREATE TABLE public.tab_cadastro (
+<pre>```CREATE TABLE public.tab_cadastro (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,
     idade INT NOT NULL
-);
+);```</pre>
 
 
 Configure as credenciais no arquivo FabricaConexao.java
