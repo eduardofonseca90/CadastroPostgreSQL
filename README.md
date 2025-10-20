@@ -34,7 +34,7 @@ PostgreSQL
 
 JDBC
 
-IDE: DBeaver / IntelliJ / Eclipse
+IDE: DBeaver / IntelliJ
 
 ### 📦 Como Executar
 
